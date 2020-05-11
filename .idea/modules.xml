@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_html_css/01_html_css.iml" filepath="$PROJECT_DIR$/01_html_css/01_html_css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" filepath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_web/05_web.iml" filepath="$PROJECT_DIR$/05_web/05_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_xml/05_xml.iml" filepath="$PROJECT_DIR$/05_xml/05_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/061-servlet/061-servlet.iml" filepath="$PROJECT_DIR$/061-servlet/061-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/071_servlet/071_servlet.iml" filepath="$PROJECT_DIR$/071_servlet/071_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/081_jsp/081_jsp.iml" filepath="$PROJECT_DIR$/081_jsp/081_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_jsp/08_jsp.iml" filepath="$PROJECT_DIR$/08_jsp/08_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/091_EL_JSTL/091_EL_JSTL.iml" filepath="$PROJECT_DIR$/091_EL_JSTL/091_EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+    </modules>
+  </component>
+</project>
